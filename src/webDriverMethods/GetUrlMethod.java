@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * This class consist of get URL method.
  * It is used to navigate to any given URL.
  */
-public class GetUrl {
+public class GetUrlMethod {
 
 	public static void main(String[] args) {
 		
